@@ -1,0 +1,5 @@
+A : a b : $
+B : b : a b
+B' : b epsilon : a b
+C : a b : $ a b
+C' : a b epsilon : $ a b
